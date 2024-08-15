@@ -36,18 +36,18 @@ sidebar:
           level: Expert
 
         - idiom: German
-          level: Upper Intermediate (C1)
+          level: Upper Intermediate (C1 Sprachdiplom)
 
     interests:
       title: Interests
       info:
-        - item: Technology
+        - item: Dancing
           link:
 
-        - item: Machine Learning
+        - item: Gym
           link:
 
-        - item: Web Development
+        - item: Gaming
           link:
 
 career-profile:
@@ -91,35 +91,37 @@ education:
 experiences:
     title: Work Experience
     info:
-      - role: Working Student (Werkstudent), Analytics, Algorithms, and Automation (AAA)
-        time: November 2022 – Present
+      - role: Working Student (Werkstudent)
+        time: Nov 2022 – Present
         company: Opitz Consulting, München, Germany
         details: |
+          - Part of Analytics, Algorithms, and Automation (AAA) team.
           - Supported the analytics team in various high-impact projects using Python, Azure, and machine learning libraries.
           - Contributed to document understanding tasks and machine learning implementations.
           - Played a key role in developing an ETL pipeline for a major bank in Germany.
           - Coordinated an internal event.
 
-      - role: Student Assistant (Studentische Hilfskraft), IT Support
-        time: January 2022 – September 2022
+      - role: Student Assistant (Studentische Hilfskraft)
+        time: Jan 2022 – Sep 2022
         company: Ludwig-Maximilians-Universität, München, Germany
         details: |
+          - Part of IT Support team.
           - Developed features in the Molis Programming Language, a domain-specific programming language.
           - Worked independently, interpreting documentation to deliver code without direct supervision.
 
-      - role: Intern, Web Development using Ruby on Rails
+      - role: Backend Development Intern
         time: Summer 2019
         company: Paraşüt Software Technologies, Istanbul, Turkey
         details: |
           - Focused on backend development in the Billing department, ensuring customers were billed efficiently and gracefully.
 
-      - role: Intern, Technology Support Services
+      - role: Technology Support Services Intern
         time: Summer 2019
         company: IBM Turkey, Istanbul, Turkey
         details: |
           - Developed an internal Python project to create a pipeline for reading and structuring Excel data.
 
-      - role: Intern, Spam Filter using Machine Learning
+      - role: Machine Learning Intern
         time: Summer 2017
         company: Algosis Software Technologies, Istanbul, Turkey
         details: |
