@@ -33,7 +33,7 @@ sidebar:
           level: Native
 
         - idiom: English
-          level: Expert
+          level: Fluent
 
         - idiom: German
           level: Upper Intermediate (C1 Sprachdiplom)
@@ -161,9 +161,10 @@ projects:
         link: ""
         tagline: "Git, Natural Language Processing, Linux, Microsoft Azure"
 
-educational_summary:
+career-profile:
     title: Educational Summary:
-    summary: I learned German in high school and earned a C1 Diploma. My introduction to computer science began ten years ago with Java programming. Over the years, I have expanded my knowledge to include various programming languages and methodologies. During this period, I gained a solid foundation in data structures and algorithms, operating systems, object-oriented programming, mobile programming, web development, design patterns, and more. At the Technical University of Munich (TUM), my master&#039;s studies have been focused on software engineering and machine learning. I completed courses such as Deep Learning, Data Analysis, Fundamentals of AI, Patterns in Software Engineering, and Software Engineering for Business Applications. Additionally, I took a practical course in Natural Language Processing (NLP), where I worked on identifying GPT-generated scientific papers and used SHAP analysis to visually interpret the outcomes. I also conducted a seminar on the DoWhy Python Library for Causal Inference. For a fintech application project, as part of a team of three, I contributed to full-stack development using Django, Nuxt3, and Vue.js. The project involved similarity analysis of various documents, database management, and the integration of NLP technologies. Currently, I am working on my thesis titled &quot;Investigating the Application of Lag-LLaMa in Prognostics and Health Management for Engineering Systems.&quot; Lag-LLaMa is the first open-source foundation model for time series forecasting. My research involves applying Lag-LLaMa to this domain, comparing its performance with traditional methods, and evaluating the results.
+    summary: |
+    I learned German in high school and earned a C1 Diploma. My introduction to computer science began ten years ago with Java programming. Over the years, I have expanded my knowledge to include various programming languages and methodologies. During this period, I gained a solid foundation in data structures and algorithms, operating systems, object-oriented programming, mobile programming, web development, design patterns, and more. At the Technical University of Munich (TUM), my master&#039;s studies have been focused on software engineering and machine learning. I completed courses such as Deep Learning, Data Analysis, Fundamentals of AI, Patterns in Software Engineering, and Software Engineering for Business Applications. Additionally, I took a practical course in Natural Language Processing (NLP), where I worked on identifying GPT-generated scientific papers and used SHAP analysis to visually interpret the outcomes. I also conducted a seminar on the DoWhy Python Library for Causal Inference. For a fintech application project, as part of a team of three, I contributed to full-stack development using Django, Nuxt3, and Vue.js. The project involved similarity analysis of various documents, database management, and the integration of NLP technologies. Currently, I am working on my thesis titled &quot;Investigating the Application of Lag-LLaMa in Prognostics and Health Management for Engineering Systems.&quot; Lag-LLaMa is the first open-source foundation model for time series forecasting. My research involves applying Lag-LLaMa to this domain, comparing its performance with traditional methods, and evaluating the results.
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by Berkay Kozan
