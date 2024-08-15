@@ -131,15 +131,15 @@ experiences:
 certifications:
     title: Achievements and Events
     list:
-      - name: Deloitte Education Foundation, Scholarship Recipient
+      - name: Scholarship Recipient
         start: 2017
         end: 2020
-        organization: Deloitte
+        organization: Deloitte Education Foundation (DEVAK)
         credentialid: 
         credentialurl: 
         credentialname: 
         details: |
-          - Received advanced training in leadership, Agile project management, and stress management through the DEVAK 360° Program, equipping with essential skills for professional development.
+          - Received advanced training in leadership, Agile project management, and stress management through the DEVAK 360° Program, equipping with essential skills for professional development. For additional details: devak.org.tr/tr/devak-360/egitimler
 
 projects:
     title: Technologies and Skills
