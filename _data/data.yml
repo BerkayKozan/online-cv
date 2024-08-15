@@ -101,7 +101,7 @@ experiences:
           - Part of Analytics, Algorithms, and Automation (AAA) team.
           - Supported the analytics team in various high-impact projects using Python, Azure, and machine learning libraries.
           - Contributed to document understanding tasks and machine learning implementations.
-          - Played a key role in developing an ETL pipeline for a major bank in Germany.
+          - Played a key role in developing an ETL pipeline for a major bank in Germany, which processed approximately 1.5 million documents. This pipeline efficiently extracted and organized data, significantly reducing the time required by employees for future processing tasks.
           - Organized an internal event, 'Analytics Café,' where each team member presented their expertise and interests in various technological areas to their colleagues.
 
       - role: Student Assistant (Studentische Hilfskraft)
@@ -131,18 +131,6 @@ experiences:
           - Created a machine learning model to detect spam and ham messages.
           - Developed a frontend interface to display the model's results.
 
-certifications:
-    title: Achievements and Events
-    list:
-      - name: Scholarship Recipient
-        start: 2017
-        end: 2020
-        organization: Deloitte Education Foundation (DEVAK)
-        credentialid: 
-        credentialurl: 
-        credentialname: 
-        details: |
-          - Received advanced training in leadership, Agile project management, and stress management through the DEVAK 360° Program, equipping with essential skills for professional development. For additional details: devak.org.tr/tr/devak-360/egitimler
 
 projects:
     title: Technologies and Skills
@@ -160,11 +148,39 @@ projects:
       - title: Further IT Knowledge
         link: ""
         tagline: "Git, Natural Language Processing, Linux, Microsoft Azure"
+        
+certifications:
+    title: Achievements and Events
+    list:
+      - name: Scholarship Recipient
+        start: 2017
+        end: 2020
+        organization: Deloitte Education Foundation (DEVAK)
+        credentialid: 
+        credentialurl: 
+        credentialname: 
+        details: |
+          - Received advanced training in leadership, Agile project management, and stress management through the DEVAK 360° Program, equipping with essential skills for professional development. For additional details: devak.org.tr/tr/devak-360/egitimler
 
-career-profile:
-    title: Professional Summary
-    summary: |
-      An ambitious and dedicated computer engineer with a strong commitment to self-development and excellence. Highly value teamwork and agile methodologies. Eager to continually learn and grow while contributing effectively to the success of any team. C1 Diploma. My introduction to computer science began ten years ago with Java programming. Over the years, I have expanded my knowledge to include various programming languages and methodologies. During this period, I gained a solid foundation in data structures and algorithms, operating systems, object-oriented programming, mobile programming, web development, design patterns, and more. At the Technical University of Munich (TUM), my master&#039;s studies have been focused on software engineering and machine learning. I completed courses such as Deep Learning, Data Analysis, Fundamentals of AI, Patterns in Software Engineering, and Software Engineering for Business Applications. Additionally, I took a practical course in Natural Language Processing (NLP), where I worked on identifying GPT-generated scientific papers and used SHAP analysis to visually interpret the outcomes. I also conducted a seminar on the DoWhy Python Library for Causal Inference. For a fintech application project, as part of a team of three, I contributed to full-stack development using Django, Nuxt3, and Vue.js. The project involved similarity analysis of various documents, database management, and the integration of NLP technologies. Currently, I am working on my thesis titled &quot;Investigating the Application of Lag-LLaMa in Prognostics and Health Management for Engineering Systems.&quot; Lag-LLaMa is the first open-source foundation model for time series forecasting. My research involves applying Lag-LLaMa to this domain, comparing its performance with traditional methods, and evaluating the results.
+publications:
+    title: Education Summary:
+    intro: |
+      I learned German in high school and earned a C1 Diploma.
+      My introduction to computer science began ten years ago with Java programming. Over the years,
+      I have expanded my knowledge to include various programming languages and methodologies. 
+      During this period, I gained a solid foundation in data structures and algorithms, operating systems,
+      object-oriented programming, mobile programming, web development, design patterns, and more.
+      At the Technical University of Munich (TUM), my master's studies have been focused on software engineering and machine learning.
+      I completed courses such as Deep Learning, Data Analysis, Fundamentals of AI, Patterns in Software Engineering,
+      and Software Engineering for Business Applications. 
+      Additionally, I took a practical course in Natural Language Processing (NLP), 
+      where I worked on identifying GPT-generated scientific papers and used SHAP analysis to visually interpret the outcomes. 
+      I also conducted a seminar on the DoWhy Python Library for Causal Inference.
+      For a fintech application project, as part of a team of three, I contributed to full-stack development using Django, Nuxt3, and Vue.js.
+      The project involved similarity analysis of various documents, database management, and the integration of NLP technologies.
+      Currently, I am working on my thesis titled "Investigating the Application of Lag-LLaMa in Prognostics and Health Management for Engineering Systems."
+      Lag-LLaMa is the first open-source foundation model for time series forecasting. 
+      My research involves applying Lag-LLaMa to this domain, comparing its performance with traditional methods, and evaluating the results.
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by Berkay Kozan
